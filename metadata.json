@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MindForge: The Critical Thinking Arena",
+  "description": "A gamified AI platform designed to sharpen logic prowess, cognitive flexibility, and ethical nuance through interactive scenarios and AI-powered evaluation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
